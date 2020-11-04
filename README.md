@@ -1,5 +1,5 @@
-#  Lebenslauf
-**Name: Roland Borok**
-***Alter: 22***
-**Vertiefungsrichtung: SE**
-*Wohnort:Furtwangen*
+#  Lebenslauf 
+**Name: Roland Borok** <br>
+***Alter: 22*** <br>
+**Vertiefungsrichtung: SE** <br>
+*Wohnort:Furtwangen* <br>
