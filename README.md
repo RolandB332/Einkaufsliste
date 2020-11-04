@@ -3,4 +3,4 @@
 ***Alter: 22*** <br>
 **Vertiefungsrichtung: SE** <br>
 *Wohnort:Furtwangen* <br>
-![](/assets/images/hfu.png)
+![](https://github.com/RolandB332/Einkaufsliste/blob/branch1/hfu.png)
